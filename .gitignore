@@ -1,0 +1,9 @@
+.idea/
+.gradle/
+gradle*
+build/
+out/
+nbproject/
+*.class
+*.jar
+**/dist/
